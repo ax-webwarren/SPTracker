@@ -1,0 +1,70 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#InputNotes {
+	/*height: 34px;*/
+}
+
+.add div.dropdown {
+	display: inline-block;
+}
+
+.container.body {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.center {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.center-main {
+	margin: 0 auto;
+	width: 100%;
+}
+
+[data-toggle~="popover"] {
+	cursor: pointer;
+}
+
+.vmiddle {
+	vertical-align: middle;
+}
+
+.result {
+	margin-top: 15px;
+}
+
+.modal-dialog .modal-body button {
+	width: 100%;
+	margin: 2% 0 2% 0;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	background: linear-gradient(to bottom, #fff 0%, #fff 100%) !important;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #fff))  !important;
+	background: -webkit-linear-gradient(top, #fff 0%, #fff 100%) !important;
+}
+
+.glyphicon-edit, .glyphicon-trash {
+	cursor: pointer;
+	padding-left: 15px;
+}
+
+.alert {
+	text-align: center;
+}
+
+.modal .form-control {
+	width: 100%;
+}
+
+#edit_col_action_edit, #edit_col_action_delete {
+	padding-left: 0;
+}
